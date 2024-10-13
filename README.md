@@ -40,6 +40,8 @@ Esta dualidad me permite abordar proyectos desde múltiples ángulos, asegurando
 
 ## 📊 Mi actividad en GitHub
 
+No es gran cosa ya que estoy empezando en github y solo estoy contribuyendo en mis proyectos, de los cuales, en el que mas trabajo lo tengo en privado ;(
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alvgm98&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
