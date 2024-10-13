@@ -1,7 +1,7 @@
 # ¡Hola mundo, soy Álvaro! 👋
 
 <div align="center">
-  <img src="/placeholder.svg?height=200&width=200" alt="Profile Banner" width="200" height="200">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=github" alt="Full Stack Developer" width="220" height="30">
 </div>
 
 ## Sobre mí 🚀
