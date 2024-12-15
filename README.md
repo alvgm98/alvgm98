@@ -1,31 +1,45 @@
-# ¡Hola mundo, soy Álvaro! 👋
+# 🌟 ¡Hola, soy Álvaro! 👋
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=github" alt="Full Stack Developer" width="220" height="30">
 </div>
 
-## Sobre mí 🚀
+Soy **@alvgm98**, un desarrollador **Full Stack** especializado en **Angular** y **Spring Boot**, con experiencia creando aplicaciones web y soluciones escalables. Me encanta programar, aprender nuevas tecnologías y crear proyectos que puedan marcar la diferencia.
 
-Soy un apasionado desarrollador Full Stack, con un amor especial por los desafíos del Frontend y una profunda apreciación por la estructura del Backend. Mi objetivo es crear soluciones completas y elegantes que no solo se vean increíbles, sino que también funcionen a la perfección.
+## 📊 Proyectos destacados
 
-### 💻 Mi filosofía de desarrollo
+### [🎮 2048 Game](https://alvgm98.github.io/game-2048/)
+> Una implementación interactiva del clásico juego 2048, desarrollada en **JavaScript** y **CSS puro** con animaciones identicas al juego original.
 
-- **Full Stack**: Disfruto trabajando en todas las capas de una aplicación, desde la interfaz de usuario hasta la base de datos.
-- **Frontend**: Me atrae especialmente por su complejidad y el reto constante de crear experiencias de usuario excepcionales.
-- **Backend**: Me encanta por la paz mental que me brinda al poder estructurar y organizar todo a mi gusto.
+### [✨ Traductor App](https://alvgm98.github.io/translate-app/)
+> Aplicación web para traducir textos entre idiomas. Creada con un enfoque moderno usando **JavaScript** y un diseño intuitivo.
 
-### 🛠️ Mis habilidades
+### [📏 Calculadora](https://alvgm98.github.io/calculadora/)
+> Una calculadora funcional con operaciones básicas y avanzadas, implementada en **JavaScript** y diseñada con **CSS**.
+
+---
+
+## 🚀 Sobre mí
+
+Soy un apasionado de la programación y disfruto trabajar en proyectos desafiantes. Siempre estoy buscando aprender nuevas herramientas y compartir mis conocimientos con la comunidad.
+
+- ✉ **Correo**: [tuemail@example.com](mailto:tuemail@example.com)
+- ✨ **Portafolio**: (en construcción)
+- 👥 **LinkedIn**: [Tu perfil](https://linkedin.com/in/tu-perfil)
+
+---
+
+### 🛠️ Tecnologias que manejo
 
 <div align="center">
 
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
@@ -46,8 +60,13 @@ No es gran cosa ya que estoy empezando en github y solo estoy contribuyendo en m
   <img src="https://github-readme-stats.vercel.app/api?username=alvgm98&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
+## 🔗 ¡Conéctate conmigo!
+Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. Estoy abierto a nuevos proyectos y oportunidades.
+
+Gracias por visitar mi perfil ✨
+
 ---
 
 <div align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</i>
+  <i>"¡En mi casa funcionaba!" - Mi Profesor</i>
 </div>
