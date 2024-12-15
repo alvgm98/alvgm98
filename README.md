@@ -8,7 +8,7 @@ Soy **@alvgm98**, un desarrollador **Full Stack** especializado en **Angular** y
 
 ## 📊 Proyectos destacados
 
-### [🎮 2048 Game](https://alvgm98.github.io/game-2048/)
+### [🎮 2048 Game](https://alvgm98.github.io/game2048/)
 > Una implementación interactiva del clásico juego 2048, desarrollada en **JavaScript** y **CSS puro** con animaciones identicas al juego original.
 
 ### [✨ Traductor App](https://alvgm98.github.io/translate-app/)
