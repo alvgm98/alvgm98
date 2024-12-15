@@ -23,9 +23,9 @@ Soy **@alvgm98**, un desarrollador **Full Stack** especializado en **Angular** y
 
 Soy un apasionado de la programación y disfruto trabajar en proyectos desafiantes. Siempre estoy buscando aprender nuevas herramientas y compartir mis conocimientos con la comunidad.
 
-- ✉ **Correo**: [tuemail@example.com](mailto:tuemail@example.com)
-- ✨ **Portafolio**: (en construcción)
-- 👥 **LinkedIn**: [Tu perfil](https://linkedin.com/in/tu-perfil)
+- ✉ **Correo**: [alvgm1998@gmail.com](mailto:alvgm1998@gmail.com)
+- ✨ **Portafolio**: (en construcción) (más pronto que tarde) (espero...) (en verdad aún no he empezado)
+- 👥 **LinkedIn**: [Álvaro González](https://www.linkedin.com/in/%C3%A1lvaro-gonz%C3%A1lez-mu%C3%B1oz-961994204/)
 
 ---
 
