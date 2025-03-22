@@ -1,35 +1,34 @@
-# 🌟 ¡Hola, soy Álvaro! 👋
+# 🚀 ¡Hola, soy Álvaro! 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=github" alt="Full Stack Developer" width="220" height="30">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=github" alt="Full Stack Developer">
 </div>
 
-Soy **@alvgm98**, un desarrollador **Full Stack** especializado en **Angular** y **Spring Boot**, con experiencia creando aplicaciones web y soluciones escalables. Me encanta programar, aprender nuevas tecnologías y crear proyectos que puedan marcar la diferencia.
+Soy **@alvgm98**, un desarrollador **Full Stack** con experiencia en **Angular** y **Spring Boot**. Me apasiona crear aplicaciones web modernas, seguras y escalables. Siempre estoy explorando nuevas tecnologías y perfeccionando mis habilidades.
 
-## 📊 Proyectos destacados
+---
+
+## 🚀 Proyecto estrella: BodyCheck
+
+### [📊 BodyCheck - Monitoriza el progreso de tus clientes](https://bodycheck.es/)
+> Una potente herramienta web para **dietistas y nutricionistas**, donde pueden registrar medidas antropométricas, hacer seguimiento de sus clientes y visualizar su evolución con **gráficas avanzadas e interactivas**. Construida con **Angular**, **Spring Boot** y **Spring Security con JWT**.
+
+---
+
+## 🌟 Otros proyectos destacados
 
 ### [🎮 2048 Game](https://alvgm98.github.io/game2048/)
-> Una implementación interactiva del clásico juego 2048, desarrollada en **JavaScript** y **CSS puro** con animaciones identicas al juego original.
+> Versión interactiva del clásico **2048**, con animaciones fluidas y jugabilidad adictiva. Creado con **JavaScript** y **CSS puro**.
 
 ### [✨ Traductor App](https://alvgm98.github.io/translate-app/)
-> Aplicación web para traducir textos entre idiomas. Creada con un enfoque moderno usando **JavaScript** y un diseño intuitivo.
+> Aplicación web moderna para traducir textos entre idiomas, desarrollada con **JavaScript** y un diseño limpio e intuitivo.
 
-### [📏 Calculadora](https://alvgm98.github.io/calculadora/)
-> Una calculadora funcional con operaciones básicas y avanzadas, implementada en **JavaScript** y diseñada con **CSS**.
-
----
-
-## 🚀 Sobre mí
-
-Soy un apasionado de la programación y disfruto trabajar en proyectos desafiantes. Siempre estoy buscando aprender nuevas herramientas y compartir mis conocimientos con la comunidad.
-
-- ✉ **Correo**: [alvgm1998@gmail.com](mailto:alvgm1998@gmail.com)
-- ✨ **Portafolio**: (en construcción) (más pronto que tarde) (espero...) (en verdad aún no he empezado)
-- 👥 **LinkedIn**: [Álvaro González](https://www.linkedin.com/in/%C3%A1lvaro-gonz%C3%A1lez-mu%C3%B1oz-961994204/)
+### [🧮 Calculadora Web](https://alvgm98.github.io/calculadora/)
+> Calculadora funcional con operaciones básicas y avanzadas. Diseñada con **JavaScript** y **CSS** para una experiencia sencilla y efectiva.
 
 ---
 
-### 🛠️ Tecnologias que manejo
+## 🛠️ Tecnologías que manejo
 
 <div align="center">
 
@@ -44,30 +43,29 @@ Soy un apasionado de la programación y disfruto trabajar en proyectos desafiant
 
 </div>
 
-## 🌟 Lo que me hace único
-
-Como desarrollador Full Stack, encuentro un equilibrio perfecto entre la creatividad del Frontend y la lógica del Backend:
-
-- **Frontend**: Me sumerjo en la complejidad de crear interfaces intuitivas y atractivas. Disfruto resolviendo los desafíos únicos que presenta la capa de presentación.
-- **Backend**: Aquí es donde encuentro mi zen. La capacidad de estructurar sistemas, optimizar consultas y diseñar APIs robustas me proporciona una satisfacción inmensa.
-
-Esta dualidad me permite abordar proyectos desde múltiples ángulos, asegurando soluciones completas y bien integradas.
+---
 
 ## 📊 Mi actividad en GitHub
 
-No es gran cosa ya que estoy empezando en github y solo estoy contribuyendo en mis proyectos, de los cuales, en el que mas trabajo lo tengo en privado ;(
+Si bien muchos de mis proyectos son privados, siempre estoy trabajando en algo nuevo. ¡Aquí puedes ver un poco de mi actividad!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alvgm98&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
-## 🔗 ¡Conéctate conmigo!
-Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. Estoy abierto a nuevos proyectos y oportunidades.
+---
 
-Gracias por visitar mi perfil ✨
+## 📩 ¡Conéctate conmigo!
+Si quieres hablar sobre desarrollo, colaborar en un proyecto o simplemente saludar, ¡aqui estoy! 🚀
+
+- ✉ **Correo**: [alvgm1998@gmail.com](mailto:alvgm1998@gmail.com)
+- 👥 **LinkedIn**: [Álvaro González](https://www.linkedin.com/in/%C3%A1lvaro-gonz%C3%A1lez-mu%C3%B1oz-961994204/)
+- 🌐 **Portafolio**: en construcción...
 
 ---
 
 <div align="center">
   <i>"¡En mi casa funcionaba!" - Mi Profesor</i>
 </div>
+
+
