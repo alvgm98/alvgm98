@@ -21,7 +21,7 @@ Soy **@alvgm98**, un desarrollador **Full Stack** con experiencia en **Angular**
 > Versión interactiva del clásico **2048**, con animaciones fluidas y jugabilidad adictiva. Creado con **JavaScript** y **CSS puro**.
 
 ### [✨ Traductor App](https://alvgm98.github.io/translate-app/)
-> Aplicación web moderna para traducir textos entre idiomas, desarrollada con **JavaScript** y un diseño limpio e intuitivo.
+> Aplicación web moderna para traducir textos entre idiomas, desarrollada con **Angular** y un diseño limpio e intuitivo.
 
 ### [🧮 Calculadora Web](https://alvgm98.github.io/calculadora/)
 > Calculadora funcional con operaciones básicas y avanzadas. Diseñada con **JavaScript** y **CSS** para una experiencia sencilla y efectiva.
