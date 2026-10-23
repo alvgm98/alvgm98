@@ -1,6 +1,6 @@
 ### Álvaro González
 
-No me he currado este README porque estoy trabajando y, la verdad, me la suda.
+No me he currado este README: entre el trabajo y la vida, no hay tiempo ni ganas.
 Aquí van algunas webs que he hecho en mi tiempo libre, por aburrimiento o por probar cosas.
 
 **Hechas con IA (Claude)**
