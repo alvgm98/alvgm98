@@ -1,6 +1,7 @@
 ### Álvaro González
 
-Algunas webs que he hecho en mi tiempo libre, por aburrimiento o por probar cosas.
+No me he currado este README porque estoy trabajando y, la verdad, me la suda.
+Aquí van algunas webs que he hecho en mi tiempo libre, por aburrimiento o por probar cosas.
 
 **Hechas con IA (Claude)**
 - [Chup Chup](https://alvgm98.github.io/chup-chup/) · Mi recetario: se instala en el móvil, tiene modo cocina y te dice qué hacer con lo que hay en la nevera.
